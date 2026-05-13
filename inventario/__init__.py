@@ -1,0 +1,1 @@
+# Proyecto inventario: archivo de inicialización
